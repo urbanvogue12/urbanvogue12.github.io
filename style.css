@@ -2,4 +2,8 @@
     .content{
         flex-wrap: wrap;
     }
+
+    .content > div{
+        margin-top: 15px;
+    }
 }
